@@ -1,0 +1,26 @@
+{
+  "name": "catalogodejogos",
+  "version": "1.0.0",
+  "description": "atividade avaliativa ",
+  "homepage": "https://github.com/Jbitorx11/Catalogo-de-Jogos#readme",
+  "bugs": {
+    "url": "https://github.com/Jbitorx11/Catalogo-de-Jogos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbitorx11/Catalogo-de-Jogos.git"
+  },
+  "license": "ISC",
+  "author": "JoãoVitor",
+  "type": "modules.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mariadb": "^3.5.4",
+    "sequelize": "^6.37.8"
+  }
+}
