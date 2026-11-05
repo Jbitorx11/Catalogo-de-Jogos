@@ -1,0 +1,1 @@
+console.log('O arquivo index.js está funcionando!');
